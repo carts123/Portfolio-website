@@ -54,7 +54,6 @@ h2 {
   font-weight: var(--font-weight);
 }
 
-
 h3 {
   font-size: 18px;
   font-weight: var(--font-weight);
@@ -129,6 +128,9 @@ button:focus,
 }
 .skills {
   margin-left: 450px;
+}
+.contact {
+  text-align: center
 }
 * {
   box-sizing: border-box;
