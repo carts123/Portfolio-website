@@ -130,6 +130,9 @@ button:focus,
 .skills {
   margin-left: 450px;
 }
+.contact {
+  text-align: center
+}
 * {
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
